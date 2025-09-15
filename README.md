@@ -21,35 +21,22 @@
 
 ## 🛠️ Tech Stack
 
-### TypeScript
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
-
-### Frontend
+<!-- Merged all tech stack categories into one section without headings -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
-
-### Backend
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
-### Database
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-### Tech Stack Badges
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,23 +54,24 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 **NutriScan**
-> **Fingerprint-based Health Identification System**
-- Innovative biometric health tracking solution
-- Combines fingerprint recognition with nutritional analysis
-- Built with cutting-edge AI/ML algorithms
+<!-- Updated projects section with rescueprint, EmoHealth, and Algovisualizer -->
+### 🆘 **RescuePrint**
+> **Emergency Response & Rescue Management System**
+- Real-time emergency tracking and response coordination
+- GPS-based location services for quick rescue operations
+- Built with modern web technologies for reliability
 
-### 📊 **Advanced Attendance Management System**
-> **AI-Powered Attendance Tracker**
-- Smart attendance system using computer vision
-- Automated face recognition and tracking
-- Real-time analytics and reporting dashboard
+### 💚 **EmoHealth**
+> **Emotional Health & Wellness Platform**
+- AI-powered emotional health assessment and tracking
+- Personalized wellness recommendations and mental health support
+- Interactive dashboard for mood tracking and analytics
 
-### 💊 **Prescription Decoder**
-> **OCR-Based Medical Prescription Reader**
-- Optical Character Recognition for medical prescriptions
-- Converts handwritten prescriptions to digital text
-- Helps bridge the gap between doctors and patients
+### 📊 **AlgoVisualizer**
+> **Interactive Algorithm Visualization Tool**
+- Visual representation of sorting and searching algorithms
+- Step-by-step algorithm execution with real-time animations
+- Educational tool for understanding data structures and algorithms
 
 ---
 
@@ -105,9 +93,9 @@
 
 <div align="center">
 
+<!-- Removed portfolio link from connect section -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-website.com)
 
 </div>
 
