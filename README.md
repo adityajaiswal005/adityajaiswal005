@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Jaiswal  
 
-<!--
-**adityajaiswal005/adityajaiswal005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+- 🎓 B.Tech CSE (AIML) Student, 4th Semester  
+- 🌱 Passionate about **Full Stack Development** & **Software Engineering**  
+- 💡 Always exploring hackathon projects & innovative solutions  
+- 🎯 Goal: To become a skilled **Full Stack & Software Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Tech Box  
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Other Skills:** Python, Java, Git/GitHub, REST APIs  
+
+---
+
+## 📂 Featured Projects  
+- 🧬 [NutriScan](#) – Fingerprint-based health identification system  
+- 📊 [Advanced Attendance Management System](#) – AI-powered attendance tracker  
+- 🔎 [Prescription Decoder](#) – OCR-powered medical prescription reader  
+
+---
+
+## 🌐 Connect with Me  
+- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](#)  
+- 🌎 [Portfolio Website](#)  
+
+---
+⭐️ From [AdityaJaiswal](https://github.com/AdityaJaiswal)
