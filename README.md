@@ -1,14 +1,25 @@
 <div align="center">
 
-# Hi there! 👋 I'm **Aditya Jaiswal**
+<!-- Added animated typing effect and enhanced visual appeal -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Aditya+Jaiswal;Full+Stack+Developer+🚀;AI%2FML+Enthusiast+🤖;Problem+Solver+🧩" alt="Typing SVG" />
 
 ### 🚀 Aspiring Full Stack Developer & Software Engineer
 
+<!-- Added animated wave and enhanced visual elements -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
+
+<!-- Added animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ---
 
 ## 🙋‍♂️ About Me
+
+<!-- Enhanced with animated emojis and better formatting -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Currently doing **B.Tech in Computer Science Engineering (AIML)**
 - 💻 Passionate about **Full Stack Development** and **Software Engineering**
@@ -16,26 +27,20 @@
 - 🏆 Active participant in **hackathons** and coding competitions
 - 🧩 Love **problem-solving** and building innovative solutions
 - 🌱 Always learning and exploring new technologies
+- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it!
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Merged all tech stack categories into one section without headings -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+<!-- Enhanced tech stack with animated icons and better layout -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,java,mongodb,mysql&theme=dark" />
+
+</div>
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,40 +55,53 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Updated projects section with rescueprint, EmoHealth, and Algovisualizer -->
+<!-- Enhanced projects section with better visual appeal and emojis -->
+<div align="center">
+
 ### 🆘 **RescuePrint**
 > **Emergency Response & Rescue Management System**
-- Real-time emergency tracking and response coordination
-- GPS-based location services for quick rescue operations
-- Built with modern web technologies for reliability
+- 🚨 Real-time emergency tracking and response coordination
+- 📍 GPS-based location services for quick rescue operations  
+- ⚡ Built with modern web technologies for reliability
 
 ### 💚 **EmoHealth**
 > **Emotional Health & Wellness Platform**
-- AI-powered emotional health assessment and tracking
-- Personalized wellness recommendations and mental health support
-- Interactive dashboard for mood tracking and analytics
+- 🧠 AI-powered emotional health assessment and tracking
+- 💡 Personalized wellness recommendations and mental health support
+- 📊 Interactive dashboard for mood tracking and analytics
 
 ### 📊 **AlgoVisualizer**
 > **Interactive Algorithm Visualization Tool**
-- Visual representation of sorting and searching algorithms
-- Step-by-step algorithm execution with real-time animations
-- Educational tool for understanding data structures and algorithms
+- 🎯 Visual representation of sorting and searching algorithms
+- ⏯️ Step-by-step algorithm execution with real-time animations
+- 🎓 Educational tool for understanding data structures and algorithms
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- Enhanced stats section with better layout and animations -->
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -91,20 +109,27 @@
 
 ## 🤝 Connect With Me
 
+<!-- Enhanced connect section with animated elements -->
 <div align="center">
 
-<!-- Removed portfolio link from connect section -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
+<!-- Added animated footer with enhanced styling -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+connect+and+build+something+amazing!+✨;Happy+Coding!+💻" alt="Footer Typing SVG" />
 
 </div>
