@@ -36,7 +36,7 @@
 <!-- Enhanced tech stack with animated icons and better layout -->
 <div align="center">
 
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,java,mongodb,mysql&theme=dark" />
 
 </div>
 
