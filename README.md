@@ -6,7 +6,7 @@
 ### 🚀 Aspiring Full Stack Developer & Software Engineer
 
 <!-- Added animated wave and enhanced visual elements -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 
 </div>
