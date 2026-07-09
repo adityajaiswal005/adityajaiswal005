@@ -113,7 +113,7 @@
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+connect+and+build+something+amazing!+✨;Happy+Coding!+💻" alt="Footer Typing SVG" />
 
