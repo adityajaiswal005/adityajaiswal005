@@ -3,8 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1800&color=00FFA3&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Aditya+Jaiswal;Full+Stack+Developer+🚀;AI%2FML+Enthusiast+🤖;Problem+Solver+🧩;Building+Ideas+into+Software+✨" alt="Typing SVG" />
 
 
-<h3>🚀 Full Stack Developer • Software Engineer • AI/ML Enthusiast</h3>
-
 <p>
   I build <b>scalable web applications</b>, solve <b>real-world problems</b>,
   and turn ideas into <b>useful software experiences</b>.
