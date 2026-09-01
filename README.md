@@ -46,49 +46,9 @@
 
 ## 🚀 Featured Projects
 
-<!-- Enhanced projects section with better visual appeal and emojis -->
-<div align="center">
-
-### 🆘 **RescuePrint**
-> **Emergency Response & Rescue Management System**
-- 🚨 Real-time emergency tracking and response coordination
-- 📍 GPS-based location services for quick rescue operations  
-- ⚡ Built with modern web technologies for reliability
-
-### 💚 **EmoHealth**
-> **Emotional Health & Wellness Platform**
-- 🧠 AI-powered emotional health assessment and tracking
-- 💡 Personalized wellness recommendations and mental health support
-- 📊 Interactive dashboard for mood tracking and analytics
-
-### 📊 **AlgoVisualizer**
-> **Interactive Algorithm Visualization Tool**
-- 🎯 Visual representation of sorting and searching algorithms
-- ⏯️ Step-by-step algorithm execution with real-time animations
-- 🎓 Educational tool for understanding data structures and algorithms
-
-</div>
-
 ---
 
-## 📊 GitHub Stats
 
-<!-- Enhanced stats section with better layout and animations -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -97,10 +57,10 @@
 <!-- Enhanced connect section with animated elements -->
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:anshujaiswal12300@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/aditya-jaiswal-42b794303/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 
