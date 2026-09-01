@@ -9,11 +9,6 @@
   and turn ideas into <b>useful software experiences</b>.
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=A855F7&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=A855F7" />
-</p>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -42,31 +37,6 @@
 
 ---
 
-# 🧠 What I Do
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        ADITYA JAISWAL                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  💻 Full Stack Development                                  │
-│     └─ Build complete web applications from UI to API       │
-│                                                              │
-│  ⚙️ Backend Engineering                                     │
-│     └─ REST APIs • Authentication • Databases • Services    │
-│                                                              │
-│  🤖 AI / ML                                                  │
-│     └─ ML experimentation • Intelligent applications        │
-│                                                              │
-│  🧩 Problem Solving                                         │
-│     └─ DSA • Algorithms • Competitive Programming            │
-│                                                              │
-│  🚀 Product Building                                         │
-│     └─ Hackathons • Real-world problems • MVPs              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 # 🛠️ Tech Stack
@@ -75,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 
 </div>
 
@@ -107,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
 </div>
 
@@ -137,7 +107,7 @@ An interactive algorithm visualization platform designed to make complex **DSA c
 
 `React` `JavaScript` `HTML` `CSS` `Algorithms` `Data Structures`
 
-🔗 **Repository:** `YOUR_ALGOVISUALISER_REPO`
+🔗 **Repository:** `https://github.com/adityajaiswal005/AlgoVisualizer`
 
 ---
 
@@ -160,7 +130,7 @@ A healthcare-focused web platform designed to simplify the process of **finding 
 
 `React` `Node.js` `Express` `MongoDB` `JavaScript`
 
-🔗 **Repository:** `YOUR_MEDNAV_REPO`
+🔗 **Repository:** `https://github.com/adityakesarwani10/MedNav_Frontend`
 
 ---
 
@@ -183,33 +153,7 @@ A full-stack **Event Management Platform** that brings event creation, managemen
 
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
-🔗 **Repository:** `YOUR_EVENTORA_REPO`
-
----
-
-# 📊 My Developer Journey
-
-<div align="center">
-
-|  💻 Focus  | 🚀 What I'm Building                         |
-| :--------: | :------------------------------------------- |
-| Full Stack | Scalable & production-ready web applications |
-|   Backend  | APIs, authentication & database systems      |
-|   AI / ML  | Intelligent applications & automation        |
-|     DSA    | Strong problem-solving fundamentals          |
-| Hackathons | Innovative solutions to real-world problems  |
-
-</div>
-
----
-
-# 🧩 Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
+🔗 **Repository:** `https://github.com/adityajaiswal005/Eventora`
 
 ---
 
